@@ -1,0 +1,89 @@
+.containerPadre {
+    width: 90px;
+    min-width: 270px;
+    max-width: 700px;
+    height: 140px;
+    border-color: rgb(0, 0, 0) rgb(0, 255, 128) rgb(92, 47, 255);
+    border-style: solid dotted solid;
+    margin-top: 4px;
+    background-color: rgb(255, 127, 146);
+}
+
+.containerHijo {
+    width: 90px;
+    height: 90px;
+    border-color: rgba(0, 0, 0, 0.561);
+    border: 2px solid rgb(0, 60, 255);
+    background-color: salmon;
+}
+
+.container2 {
+    width: 90px;
+    height: 90px;
+    background-color: rgb(53, 37, 133);
+    border-color: black;
+    border: 1px solid black;
+    border-radius: 30% / 60%;
+}
+
+.container3 {
+    width: 250px;
+    height: 100px;
+    background-color: rgb(163, 181, 163);
+    border-color: #db0f0f rgb(78, 85, 92) rgb(42, 208, 64);
+    border-style: solid dotted solid;
+    border-radius: 30px 30px/30px 30px;
+
+}
+
+.container4 {
+    width: 230px;
+    height: 95px;
+    background-color: rgb(86, 138, 86);
+    border-color: rgb(120, 51, 51) rgb(180, 205, 229) rgb(116, 179, 124);
+    border-style: solid dotted solid;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-block-start-color: rgb(12, 4, 4);
+}
+
+.container5 {
+    width: 300px;
+    height: 150px;
+    background-color: rgb(18, 143, 18);
+    border-color: rgb(233, 25, 25) rgb(41, 20, 114) rgb(225, 225, 12);
+    border-style: solid dotted solid;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-block-start-color: rgb(233, 3, 3);
+}
+
+
+.containerPadre {
+    width: 300px;
+    height: 150px;
+    background-color: rgba(11, 11, 245, 0.824);
+    background-color: rgba(222, 12, 12, 0.824);
+    background-color: rgba(72, 25, 224, 0.824);
+    display: inline;
+}
+
+div {
+    width: 350px;
+    height: 50px;
+    color: white;
+}
+
+.block {
+    display: block;
+    background: darkblue;
+}
+
+.inline {
+    display: inline;
+    background-color: black;
+}

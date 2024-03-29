@@ -1,0 +1,22 @@
+.container1 {
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: aqua;
+height: 150px;
+gap: 20px;
+}
+
+.item {
+    flex: 0 1 15%;
+    padding: 20px;
+    background: rgb(132, 100, 100);
+    color: violet;
+    transition: all 0.5s;
+  }
+
+.item:hover {
+    flex: 1 1 10%;
+    background: rgb(132, 100, 100);
+}
+    

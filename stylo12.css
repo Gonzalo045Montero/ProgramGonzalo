@@ -1,0 +1,10 @@
+.container{
+    background: red;
+    height: 200px;
+}
+
+@media (max-width: 800px){
+    .container{
+        background: yellowgreen;
+    }
+}    

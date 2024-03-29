@@ -1,0 +1,9 @@
+.container {
+    display: -ms-inline-grid;
+    border: 5px solid darkred;    
+}
+
+.item {
+    background: grey;
+
+}

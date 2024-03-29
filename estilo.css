@@ -1,0 +1,119 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 1.5;
+            padding: 1.0;
+            background-color: hsl(5, 8%, 78%);
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 0.5em;
+        }
+
+        nav {
+            background-color: #444;
+            padding: 1em;
+            text-align: center;
+        }                                                           
+
+        nav a {                                                     
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5em 1em;
+            margin: 0 1em;
+            border-radius: 5px;
+            background-color: #555;
+        }
+
+        section {
+            padding: em;
+            display: none;
+        }
+        h2 {
+            color: #3498db; /* Azul */
+        }
+        h1 {
+            color: #ee650a; /* Azul */
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 0.5em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        img {
+            float: left;
+            margin-right: 20px;
+            max-width: 130px;
+            height: auto;
+        }
+
+        p {
+            text-align: justify;
+        }
+        form {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        input,
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: #fff;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #1a681d;
+        }
+
+        .download-cv,
+
+        .ContenedorPadre
+        width: 100;px;
+        height: 100px;
+       
+        .ContenedorHijo
+        width: 100;px;
+        height: 100px;
+        background-color: #4caf50;
+        color: #fff;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        feConvolveMatrix;
+
+        .elementolin{
+
+        }
+
+        .circle-gradient {
+            background: radial-gradient(.circle-gradient);
+        }
